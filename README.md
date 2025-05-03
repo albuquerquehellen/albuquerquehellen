@@ -9,7 +9,7 @@
   <pre>
     💼 Psychology @ UFAM 
     📖 Data Analytics
-    🎮 Music • Games • Movies • Art
+    🎧 Music • Games • Movies • Art
   </pre>
 
   <br>
