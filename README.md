@@ -14,7 +14,7 @@
 
   <br>
 
-  <img src="https://github.com/albuquerquehellen/albuquerquehellen/blob/main/banners.gif?raw=true" height="60" />
+  <img src="https://github.com/albuquerquehellen/albuquerquehellen/blob/main/banners.gif?raw=true" height="10" />
 
   <br><br><br>
 </div>
